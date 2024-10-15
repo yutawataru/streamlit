@@ -1,4 +1,4 @@
-# import streamlit as st
+import streamlit as st
 # st.header('優しい')
 # st.subheader('家族想い')
 # st.write('趣味：海外旅行')
